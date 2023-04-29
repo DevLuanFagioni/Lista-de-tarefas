@@ -1,4 +1,4 @@
-# Lista de tarefas com Js puro
+# 📝 Lista de tarefas com Js puro
 
 ## 🌐 Deploy
 
